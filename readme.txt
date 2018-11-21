@@ -1,0 +1,1 @@
+There are samples of html/css test tasks.
